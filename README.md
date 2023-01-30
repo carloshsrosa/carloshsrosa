@@ -47,8 +47,8 @@
 
 
 **Badges:**
-![image](https://badgr.com/public/assertions/jQxjFxDKSbapcvoknVx7rw)
-![image](https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg)
-![image](https://badgr.com/public/assertions/6lRzjtm6Tka8KnorYZQdFw)
-![image](https://badgr.com/public/assertions/LnAh-Y77RoudGKkGkppJ4w)
-![image](https://badgr.com/public/assertions/86VEFSZbSxyjBiH-YY60fg)
+![image](https://media.badgr.com/uploads/badges/assertion-W1ZhFqJaTDiGs57ATdMINg.png)
+![image](https://media.badgr.com/uploads/badges/assertion-jQxjFxDKSbapcvoknVx7rw.png)
+![image](https://media.badgr.com/uploads/badges/assertion-6lRzjtm6Tka8KnorYZQdFw.png)
+![image](https://media.badgr.com/uploads/badges/assertion-LnAh-Y77RoudGKkGkppJ4w.png)
+![image](https://media.badgr.com/uploads/badges/assertion-86VEFSZbSxyjBiH-YY60fg.png)
