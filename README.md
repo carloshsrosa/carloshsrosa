@@ -1,8 +1,8 @@
-### Hi! How are you going? 👋
+### Hi! How are you? 👋
 
-- 🔭 I’m currently working on Banco do Brasil
-- 🌱 I’m currently learning DevOps Tools
-- 📫 How to reach me: carloshsrosa@gmail.com
+- 🔭 I’m currently working on **Banco do Brasil**
+- 🌱 I’m currently learning **DevOps Tools**
+- 📫 How to reach me: **carloshsrosa@gmail.com**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=7B42BC)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
