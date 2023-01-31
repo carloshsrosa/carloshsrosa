@@ -1,14 +1,9 @@
-### Hi! How are you? 👋
+<html>
+  <h3> Hi! How are you?  👋 </h3>
 
 - 🔭 I’m currently working on **Banco do Brasil**
 - 🌱 I’m currently learning **DevOps Tools**
 - 📫 How to reach me: **carloshsrosa@gmail.com**
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 
 **Technologies/Tools:**
 
@@ -56,3 +51,4 @@
 <a href="https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-LnAh-Y77RoudGKkGkppJ4w.png" alt="Badge Docker" width="115px" height="115px"></a>
 <a href="https://badgr.com/public/assertions/86VEFSZbSxyjBiH-YY60fg" target="_blank"><img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="115px" height="115px"></a>
 </div>
+</html>
