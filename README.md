@@ -47,8 +47,9 @@
 
 
 **Badges:**
-<img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="125px" height="125px">
-<img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="125px" height="125px">
-<img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="125px" height="125px">
-<img src="./images/imgBadgeJenkins.png" alt="Badge Jenkins" width="125px" height="125px">
-<img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="125px" height="125px">
+
+<img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="100px" height="100px">
+<img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="100px" height="100px">
+<img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="100px" height="100px">
+<img src="./images/imgBadgeJenkins.png" alt="Badge Jenkins" width="100px" height="100px">
+<img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="100px" height="100px">
