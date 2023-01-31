@@ -46,9 +46,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 
 
-<!-- **Badges:**
-![image](https://media.badgr.com/uploads/badges/assertion-W1ZhFqJaTDiGs57ATdMINg.png)
-![image](https://media.badgr.com/uploads/badges/assertion-jQxjFxDKSbapcvoknVx7rw.png)
-![image](https://media.badgr.com/uploads/badges/assertion-6lRzjtm6Tka8KnorYZQdFw.png)
-![image](https://media.badgr.com/uploads/badges/assertion-LnAh-Y77RoudGKkGkppJ4w.png)
-![image](https://media.badgr.com/uploads/badges/assertion-86VEFSZbSxyjBiH-YY60fg.png) -->
+**Badges:**
+<img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="125px" height="125px">
+<img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="125px" height="125px">
+<img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="125px" height="125px">
+<img src="./images/imgBadgeJenkins.png" alt="Badge Jenkins" width="125px" height="125px">
+<img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="125px" height="125px">
