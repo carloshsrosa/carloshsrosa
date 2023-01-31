@@ -16,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-typescript-000?&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=oracle&logoColor=F80000)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=D5002B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![npm](https://img.shields.io/badge/-npm-000000?&logo=npm)
