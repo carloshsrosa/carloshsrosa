@@ -47,10 +47,11 @@
 
 
 **Badges:**
+
 <div>
-<img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="100px" height="100px">
-<img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="100px" height="100px">
-<img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="100px" height="100px">
-<img src="./images/imgBadgeJenkins.png" alt="Badge Jenkins" width="100px" height="100px">
-<img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="100px" height="100px">
+<a href="https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg"><img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="100px" height="100px">
+<a href="https://badgr.com/public/assertions/jQxjFxDKSbapcvoknVx7rw"><img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="100px" height="100px">
+<a href="https://badgr.com/public/assertions/6lRzjtm6Tka8KnorYZQdFw"><img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="100px" height="100px">
+<a href="https://badgr.com/public/assertions/LnAh-Y77RoudGKkGkppJ4w"><img src="./images/imgBadgeJenkins.png" alt="Badge Jenkins" width="100px" height="100px">
+<a href="https://badgr.com/public/assertions/86VEFSZbSxyjBiH-YY60fg"><img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="100px" height="100px">
 </div>
