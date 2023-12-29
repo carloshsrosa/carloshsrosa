@@ -44,6 +44,7 @@
 **Badges:**
 
 <div>
+<a href="https://www.credly.com/badges/94dc6cf0-5b14-4815-a87b-7c4aab754a76 target="_blank"><img src="https://images.credly.com/size/340x340/images/12ef4e4e-3d8d-4caf-9ab1-858c5bcb9619/image.png" alt="Badge Cloud-Native Developer" width="115px" height="115px"></a>
 <a href="https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg" target="_blank"><img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="115px" height="115px"></a>
 <a href="https://badgr.com/public/assertions/jQxjFxDKSbapcvoknVx7rw" target="_blank"><img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="115px" height="115px"></a>
 <a href="https://badgr.com/public/assertions/6lRzjtm6Tka8KnorYZQdFw" target="_blank"><img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="115px" height="115px"></a>
