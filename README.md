@@ -44,9 +44,6 @@
 **Badges:**
 
 <div>
-<a href="https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg" target="_blank"><img src="./images/imgBadgeDocker.png" alt="Badge Docker" width="115px" height="115px"></a>
-<a href="https://badgr.com/public/assertions/jQxjFxDKSbapcvoknVx7rw" target="_blank"><img src="./images/imgBadgeKubernetes.png" alt="Badge Kubernetes" width="115px" height="115px"></a>
-<a href="https://badgr.com/public/assertions/6lRzjtm6Tka8KnorYZQdFw" target="_blank"><img src="./images/imgBadgeTerraform.png" alt="Badge Terraform" width="115px" height="115px"></a>
-<a href="https://badgr.com/public/assertions/W1ZhFqJaTDiGs57ATdMINg" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-LnAh-Y77RoudGKkGkppJ4w.png" alt="Badge Docker" width="115px" height="115px"></a>
-<a href="https://badgr.com/public/assertions/86VEFSZbSxyjBiH-YY60fg" target="_blank"><img src="./images/imgBadgePrometheusGrafana.png" alt="Badge Prometheus and Grafana" width="115px" height="115px"></a>
+<a href="https://www.credly.com/badges/86a2e865-7d26-437e-92dc-e4b1cd7516a5"><img src="https://images.credly.com/size/340x340/images/ae7dd2bd-1d04-43d9-b148-1ef79ec45129/image.png" alt="Badge Enterprise Application Developer" width="115px" height="115px"></a>
+<a href="https://www.credly.com/badges/94dc6cf0-5b14-4815-a87b-7c4aab754a76><img src="https://images.credly.com/size/340x340/images/12ef4e4e-3d8d-4caf-9ab1-858c5bcb9619/image.png" alt="Badge Cloud-Native Developer" width="115px" height="115px"></a>  
 </div>
