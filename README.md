@@ -1,8 +1,8 @@
 ### Hi! How are you?  👋
 
 - 🔭 I’m currently working on **Banco do Brasil**
-- 🌱 I’m currently learning **DevOps Tools**
-- 📫 How to reach me: **carloshsrosa@gmail.com**
+- 🌱 I'm improving my **frontend** skills
+- 📫 How to reach me: **carloshsrosa@gmail.com** and **https://www.linkedin.com/in/carloshsrosa/**
 
 **Technologies/Tools:**
 
