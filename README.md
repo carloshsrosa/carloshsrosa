@@ -1,6 +1,6 @@
 ### Hi! How are you?  👋
 
-- 🔭 I’m currently working on **Banco do Brasil**
+- 🔭 I’m currently working on **Cast Group**
 - 🌱 I'm improving my **frontend** skills
 - 📫 How to reach me: **carloshsrosa@gmail.com** and **https://www.linkedin.com/in/carloshsrosa/**
 
