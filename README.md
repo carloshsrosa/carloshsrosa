@@ -1,76 +1,31 @@
-# Carlos Henrique Santos Rosa Viegas  
+# 👋 Olá, sou Carlos Henrique Santos Rosa Viegas  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshsrosa/)  
-📧 **carloshsrosa@gmail.com** | 📞 **(61) 99882-1206**
-
----
-
-## 🚀 Sobre Mim  
-
-Sou um **Arquiteto de Soluções**, **Líder Técnico** e **Desenvolvedor Sênior**, com mais de 20 anos de experiência em desenvolvimento, modernização e integração de sistemas complexos. Minha especialidade é unir tecnologias tradicionais, como **COBOL** e **mainframe**, com soluções modernas baseadas em **Java**, **APIs RESTful** e **DevOps** para criar ambientes escaláveis, seguros e de alta performance.  
-
-Apaixonado por inovação e excelência técnica, lidero equipes e projetos que geram impacto direto nos resultados de negócios, sempre com foco na confiabilidade e eficiência dos serviços.
+🎯 **Arquiteto de Soluções | Líder Técnico | Desenvolvedor Sênior**  
+💻 Transformo sistemas legados em soluções modernas com **COBOL**, **Java** e **DevOps**.  
+🌐 Apaixonado por inovação, confiabilidade e alta performance.  
 
 ---
 
-## 💼 Experiência  
-
-- **Arquiteto de Soluções | Cast Group**  
-  Desenvolvimento de sistemas robustos, integração entre **mainframe** e **Java** via APIs RESTful e implementação de pipelines CI/CD com **Jenkins** e **GitLab**.  
-
-- **Especialista em TI | Banco do Brasil**  
-  Liderança de equipes, modernização de sistemas legados e desenvolvimento de scripts de testes automatizados em **KDz**.
-
-Para detalhes completos, veja meu [LinkedIn](https://www.linkedin.com/in/carloshsrosa/).
+## 🚀 O que me motiva?  
+- Integrar **mainframe** com o mundo moderno via **APIs RESTful**.  
+- Construir pipelines ágeis com **CI/CD**, **Jenkins** e **AWS**.  
+- Liderar equipes para criar sistemas escaláveis, seguros e robustos.  
 
 ---
 
-## 🛠️ Habilidades Técnicas  
-
-**Linguagens de Programação**:  
-- **COBOL**, **Natural**, **Java**, **Python**, **JavaScript**, **HTML**, **CSS**  
-
-**Frameworks e Ferramentas**:  
-- **Quarkus**, **Spring Boot**, **Flask**, **Docker**, **OpenShift**, **Jenkins**, **Grafana**, **Prometheus**, **CI/CD**, **Control-M**  
-
-**Bancos de Dados**:  
-- **DB2**, **Oracle**, **MySQL**, **SQLite3**, **MongoDB**
-
-**Mainframe**:  
-- **CICS**, **VSAM**, **TSO**, **JCL**
-
-**DevOps e Metodologias Ágeis**:  
-- **Git**, **SOLID**, **TDD**, **Scrum**, **Kanban**, **AWS**
-
-**Qualidade e Testes de Software**:  
-- **JUnit**, **Mockito**, **Cobertura de código COBOL com KDz**
+## 🛠️ Minhas Tecnologias  
+- **Mainframe**: COBOL, Natural, CICS, DB2  
+- **Backend**: Java, Quarkus, Spring Boot  
+- **DevOps**: Jenkins, GitLab, Docker, OpenShift  
+- **Qualidade**: JUnit, Mockito, KDz  
 
 ---
 
-## 🌟 Certificações  
-
-- **Red Hat Enterprise Application Developer**  
-- **Red Hat Cloud-native Developer** ([Verificar](https://rhtapps.redhat.com/verify?certId=230-143-489))  
-
-<!--
----
-
-## 📚 Projetos em Destaque  
-
-### 📌 [Java 21 Complete Course](https://github.com/carloshsrosa/java-21-course)  
-Um curso completo, cobrindo desde o básico até conceitos avançados de **Java 21**, com foco em **boas práticas** e **design patterns**.  
-
-### 📌 [Mainframe Modernization](https://github.com/carloshsrosa/mainframe-modernization)  
-Exemplos de integração entre **mainframe** e **APIs RESTful** utilizando **Java** e **DB2**, otimizando desempenho e confiabilidade.  
-
----
-
-## 📝 Contato  
-
+## 🌟 Quer saber mais?  
 📧 **carloshsrosa@gmail.com**  
-📞 **(61) 99882-1206**  
-[LinkedIn](https://www.linkedin.com/in/carloshsrosa/)  
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshsrosa/)  
+
+🎉 Vamos criar soluções incríveis juntos!
 
 
 
