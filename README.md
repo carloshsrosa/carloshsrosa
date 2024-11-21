@@ -6,13 +6,6 @@
 
 ---
 
-## 🚀 O que me motiva?  
-- Integrar **mainframe** com o mundo moderno via **APIs RESTful**.  
-- Construir pipelines ágeis com **CI/CD**, **Jenkins** e **AWS**.  
-- Liderar equipes para criar sistemas escaláveis, seguros e robustos.  
-
----
-
 ## 🛠️ Minhas Tecnologias  
 - **Mainframe**: COBOL, Natural, CICS, DB2  
 - **Backend**: Java, Quarkus, Spring Boot  
