@@ -26,8 +26,8 @@ Minha atuação inclui **metodologias ágeis (Scrum, Kanban), pipelines de CI/CD
 - **Gestão da Tecnologia da Informação** - UNISUL (2013)
 
 ## 📜 Certificações
-- **Red Hat Enterprise Application Developer**
-- **Red Hat Cloud-Native Developer**
+- **Red Hat Enterprise Application Developer** - _Java EE_
+- **Red Hat Cloud-Native Developer** - _Quarkus_
 
 ## 🛠 Habilidades Técnicas
 ### Linguagens de Programação
