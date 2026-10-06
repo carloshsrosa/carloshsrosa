@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Profissional com 21 anos de experiência em desenvolvimento de sistemas, especializado em back-end e mainframe. Sou expert em **Java, COBOL e integração de APIs RESTful**, com conhecimento aprofundado em **microserviços, padrões de desenvolvimento e arquitetura de sistemas**.
+Profissional com 22 anos de experiência em desenvolvimento de sistemas, especializado em back-end e mainframe. Sou expert em **Java, COBOL e integração de APIs RESTful**, com conhecimento aprofundado em **microserviços, padrões de desenvolvimento e arquitetura de sistemas**.
 
 Minha atuação inclui **metodologias ágeis (Scrum, Kanban), pipelines de CI/CD e computação em nuvem (AWS Cloud)**, sempre focado em soluções escaláveis, de alta performance e alinhadas às demandas do mercado.
 
